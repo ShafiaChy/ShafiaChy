@@ -4,7 +4,7 @@
 </p>
 
   <em>
-    I am currently working as a Senior Web Instructor at  <a href="https://www.programming-hero.com/"> <b>Programming Hero </b></a>, an edtech company that teach students how to code and help develop skills. Apart from teaching web, developing React projects and solving students' errors, my core responsibility is creating high-quality and engaging content.
+    I am currently working as a Senior Web Instructor at  <a href="https://www.programming-hero.com/"> <b>Programming Hero </b></a>, an edtech company that teach students how to code and help develop skills. Apart from teaching web, developing React projects and solving students' errors, my core responsibility is creating high-quality and engaging web content.
 
   <br>
   <h4 align="center"><i>"---Always Work Hard and Trust the Process---"</i></h4>
