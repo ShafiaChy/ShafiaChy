@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shafia Rahman Chowdhury:wave:</h1>
+<h1 align="center">Hi, I'm Shafia Rahman Chowdhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1> 
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Graduate;Senior+Web+Instructor;Content+Specialist;React+Developer;&center=true&width=500&height=50"></a>
 </p>
