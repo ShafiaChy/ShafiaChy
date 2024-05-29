@@ -29,9 +29,9 @@
 <br>
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/shafia-rahman-chowdhury-791a86216/">
+<!--   <a href="https://www.linkedin.com/in/791a86216/">
    <img align="left" alt="Shafia Rahman Chowdhury| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
+  </a> -->
   <a href="mailto:shafiarahman13@gmail.com">
     <img align="left" alt="Shafia Rahman Chowdhury| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
