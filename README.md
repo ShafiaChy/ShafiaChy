@@ -5,7 +5,6 @@
 
   <em>
     <h4 align="center">I develop MERN projects, teach web technologies and solve students' errors.</h4>
-
   <br>
   <h4 align="center"><i>"---Always Work Hard and Trust the Process---"</i></h4>
 </p>
