@@ -35,8 +35,8 @@
   <a href="mailto:shafiarahman13@gmail.com">
     <img align="left" alt="Shafia Rahman Chowdhury| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://instagram.com/shafia_chy?igshid=MzMyNGUyNmU2YQ==">
-    <img align="left" alt="Shafia Rahman Chowdhury| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://www.linkedin.com/in/shafia-rahman-chowdhury-791a86216/">
+    <img align="left" alt="Shafia Rahman Chowdhury| LinkedIn" width="24px" src="https://raw.githubusercontent.com/detain/svg-logos/07e36b4aa0691f3015886624395e083395e528c5/svg/l/linkedin-icon-2.svg" />
   </a>
    <a href="https://www.facebook.com/profile.php?id=100070028615565&mibextid=ZbWKwL">
     <img align="left" alt="Shafia Rahman Chowdhury| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
